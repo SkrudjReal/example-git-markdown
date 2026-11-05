@@ -10,7 +10,7 @@ README · Issues · Pull Requests · Discussions
 [![Forks](https://img.shields.io/github/forks/SkrudjReal/example-git-markdown?style=for-the-badge&color=a5b4fc&labelColor=19152e)](https://github.com/SkrudjReal/example-git-markdown/forks)
 [![Issues](https://img.shields.io/github/issues/SkrudjReal/example-git-markdown?style=for-the-badge&color=f0abfc&labelColor=19152e)](https://github.com/SkrudjReal/example-git-markdown/issues)
 
-<img src="assets/starfield-mirrored.png" alt="Star Field: фиолетовые облака, звёзды и панели; горизонтальное отражение исходной картинки" width="720">
+<img src="assets/starfield.jpg" alt="Star Field: фиолетовые облака, звёзды и панели" width="720">
 
 **Заготовка красивого README и коллекция GitHub-разметки.**
 
